@@ -8,7 +8,7 @@ class Deck
     end
   end
 
-  def next
+  def draw
     @deck.pop
   end
 
